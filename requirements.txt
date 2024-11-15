@@ -1,0 +1,11 @@
+altair==5.0.1
+jupyterlab==4.0.1
+ipywidgets==8.0.6
+matplotlib==3.7.1
+pandas==2.0.2
+jupyterlab-dash==0.1.0a3
+seaborn==0.12.2
+python-dotenv==1.0.0
+psycopg2-binary==2.9.7
+SQLAlchemy==2.0.15
+missingno==0.5.2
